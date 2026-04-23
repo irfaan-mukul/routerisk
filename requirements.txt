@@ -1,0 +1,4 @@
+flask
+werkzeug
+anthropic
+requests
