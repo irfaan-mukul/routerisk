@@ -275,6 +275,10 @@ HTML = """<!DOCTYPE html>
 <title>RouteRisk — Shipment Delay Predictor</title>
 <meta property="og:title" content="RouteRisk — Shipment Delay Predictor">
 <meta property="og:description" content="Real-time AI risk assessment for global shipments. Enter your route and get an instant delay prediction based on live intelligence.">
+<meta property="og:image" content="https://raw.githubusercontent.com/irfaan-mukul/routerisk/main/routerisk_preview.png">
+<meta property="og:url" content="https://routerisk.onrender.com">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&family=Playfair+Display:wght@700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
